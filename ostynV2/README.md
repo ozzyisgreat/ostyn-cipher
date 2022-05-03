@@ -1,5 +1,6 @@
 **ostynV2 is like the baconian cipher but instead of being a 5 bit binary cipher its a 3 bit trinary cipher**
 
+**the key:**
 |letter |ostynV2
 ---| ---|
 |a|000|
