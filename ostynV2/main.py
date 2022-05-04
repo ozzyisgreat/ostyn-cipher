@@ -35,7 +35,7 @@ if choice == "1":
     foo = foo.replace("x", "212 ")
     foo = foo.replace("y", "220 ")
     foo = foo.replace("z", "221 ")
-    print("your encoded text is: {foo}")
+    print(f"your encoded text is: {foo}")
     exit()
 
 if choice == "2":
@@ -67,7 +67,7 @@ if choice == "2":
     foo = foo.replace("220", "y")
     foo = foo.replace("221", "z")
     foo = foo.replace(" ", "")
-    print("your decoded text is: {foo}")
+    print(f"your decoded text is: {foo}")
     exit()
 
 
